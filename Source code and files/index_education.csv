@@ -1,0 +1,16 @@
+GEO.id2,county,index_education_ae,index_education_ce,index_education_imr
+Id2,County,"Education Higher, Architecture and Engineering","Education Higher, Construction and Extraction","Education Higher, Installation, Maintenance, and Repair"
+25001,Barnstable,0.85,0.71,0.58
+25003,Berkshire,0.5,0.33,0.25
+25005,Bristol,0.33,0.15,0.15
+25007,Dukes,0.23,0.29,0.14
+25009,Essex,1.37,0.43,0.47
+25011,Franklin,1.05,0.65,0.36
+25013,Hampden,0.12,0.07,0.03
+25015,Hampshire,1.02,0.73,0.44
+25017,Middlesex,3.26,1.01,1.08
+25019,Nantucket,0.74,0.19,0.16
+25021,Norfolk,2.23,1.07,0.9
+25023,Plymouth,0.44,0.36,0.25
+25025,Suffolk,2.68,0.37,0.39
+25027,Worcester,0.73,0.27,0.24

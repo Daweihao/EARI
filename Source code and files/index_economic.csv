@@ -1,0 +1,16 @@
+GEO.id2,county,index_economic_ae,index_economic_ce,index_economic_imr
+Id2,County,"Economic Higher, Architecture and Engineering","Economic Higher, Construction and Extraction","Economic Higher, Installation, Maintenance, and Repair"
+25001,Barnstable,1.88,1.42,1.27
+25003,Berkshire,8.32,3.32,2.92
+25005,Bristol,3.32,1.28,2.01
+25007,Dukes,0.23,0.91,0.88
+25009,Essex,2.78,1.11,1.07
+25011,Franklin,2.78,1.05,0.91
+25013,Hampden,2.07,1.92,1.54
+25015,Hampshire,1.68,1.75,2.98
+25017,Middlesex,1.63,0.8,0.95
+25019,Nantucket,0.4,0.74,0.14
+25021,Norfolk,1.26,0.76,0.81
+25023,Plymouth,1.54,1.33,1.02
+25025,Suffolk,1.25,0.84,0.9
+25027,Worcester,2.54,1.27,1.49
